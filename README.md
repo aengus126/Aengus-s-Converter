@@ -5,12 +5,18 @@ application by giving it a UI with TKinter and building it with PyInstaller. It'
 and doesn't do much more than what Pillow allows, but I had a hard time finding something similar
 online that does a good job. 
 
-Advantages of my converter:
-  Can handle HEIC (apple image) files
-  Just 25 MBs, fairly simple to use
-  Very wide range of formats to import/export from
+### Advantages of my converter:
+ - Can handle HEIC (apple image) files
+ - Just 25 MBs, fairly simple to use
+ - Very wide range of formats to import/export from
 
-Disadvantages of my converter:
-  Somebody probably already did this but better
-  Is made in Python, so its not optimized the best
+### Disadvantages of my converter:
+- Somebody probably already did this but better
+- Is made in Python, so its not optimized the best
 
+<br>
+
+This should also serve as a good demo of what Tkinter and Pillow are capable of, so feel free
+to use this code however you need to.
+
+email me at AengusPatterson@gmail.com if you have any questions
